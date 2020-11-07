@@ -1,0 +1,6 @@
+name: Bungee-Communication
+author: Areeoh
+main: com.manhunt.bungee.Main
+version: 1.0
+commands:
+  rejoin:

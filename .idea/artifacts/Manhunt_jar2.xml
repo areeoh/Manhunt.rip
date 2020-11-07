@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Manhunt:jar2">
+    <output-path>F:/Bungee Test Server/FlameCord/plugins</output-path>
+    <root id="archive" name="Manhunt.jar">
+      <element id="module-output" name="Manhunt" />
+    </root>
+  </artifact>
+</component>

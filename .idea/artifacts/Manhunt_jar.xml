@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Manhunt:jar">
+    <output-path>F:/Bungee Test Server/MC-Manhunt/plugins</output-path>
+    <root id="archive" name="Manhunt.jar">
+      <element id="module-output" name="Manhunt" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+name: Manhunt
+author: Areeoh
+version: 1.0
+main: com.manhunt.spigot.Main
+commands:
+  manhunt:
